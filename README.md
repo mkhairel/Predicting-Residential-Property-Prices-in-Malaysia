@@ -1,5 +1,5 @@
 # Predicting-Residential-Property-Prices-in-Malaysia
-Predicting Residential Property Prices in Malaysia using data analysis and machine learning (Linear Regression), with interactive dashboard visualization.
+Malaysian property prices are highly influenced by location, size, and market trends. This project aims to predict house prices using machine learning.
 
 ## Overview
 This project analyzes Malaysian residential property data to identify key factors influencing price and to build a predictive model using Linear Regression.
@@ -13,7 +13,11 @@ The model uses features such as built-up area, number of bedrooms and bathrooms,
 - Perform statistical analysis
 - Build predictive model
 
-## 🛠 Tools
+## Dataset
+- Real dataset sources from Kaggle
+- Dataset contains 7,346 records and 48 features including location, property type, and built-up area.
+
+## Tools
 - Python (Pandas, Numpy)
 - Seaborn
 - Scikit-learn
@@ -26,7 +30,9 @@ The model uses features such as built-up area, number of bedrooms and bathrooms,
 - Urban areas have significantly higher prices such as KL & Selangor
 - Type property also plays a major role, where premium properties like bungalow are more expensive
 
-## Model
+## Mothodology
+- Data Cleaning & Preparation
+- EDA
 - Linear Regression
 - Evaluation metrics: R², MAE, RMSE
 
