@@ -47,7 +47,6 @@ Interactive dashboard built using Plotly in Google Colab.
 
 ## Files
 - property_price_prediction.ipynb
-- cleaned_data.csv (optional)
 
 ## Author
 Muhamad Khairel
