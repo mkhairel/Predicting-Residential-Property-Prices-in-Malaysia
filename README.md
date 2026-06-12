@@ -25,7 +25,7 @@ The model uses features such as built-up area, number of bedrooms and bathrooms,
 - Google Colab
 
 ## Key Insights
-- Location is the most important factor
+- Location is the most important factor. Properties in KL and Selangor Consistently commanding higher market value
 - Property size strongly affects price
 - Urban areas have significantly higher prices such as KL & Selangor
 - Type property also plays a major role, where premium properties like bungalow are more expensive
@@ -44,6 +44,9 @@ The model uses features such as built-up area, number of bedrooms and bathrooms,
 
 ## Visualization
 Interactive dashboard built using Plotly in Google Colab.
+
+## Business Impact
+This project demonstrates how predictive analytics can support property valuation, investment assessment, and market trend analysis by providing data-driven estimates of residential property prices.
 
 ## Files
 - property_price_prediction.ipynb
